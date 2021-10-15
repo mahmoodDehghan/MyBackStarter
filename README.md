@@ -1,2 +1,2 @@
 # MyBackStarter
-template back with docker and django
+template back with docker and django and postgresql
