@@ -8,3 +8,5 @@ Instruction<br/>
 4: first docker-compose build<br/>
 5: run docker-compose up to run and check the correctness of changes you made.<br/>
 6: for use default user and admin you should migrate with docker compose command. <br/>
+7: for using newest packages run: docker-compose run web poetry updates<br/>
+8: based on newest versions update .toml file. 
