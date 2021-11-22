@@ -16,6 +16,4 @@ RUN poetry config virtualenvs.create false --local
 
 RUN poetry install --no-dev
 
-RUN poetry update --no-dev
-
 COPY . /code/
